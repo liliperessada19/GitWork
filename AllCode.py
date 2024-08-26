@@ -1,5 +1,4 @@
-#All previous code 
-#blH BLh blH
+# All previous code 
 #1. How to find out the remainder of two random numbers and store it in a variable
 
 import random
